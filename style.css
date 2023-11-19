@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    background: #3d3e42;
+    color: #9099a0;
+    font-family: 'Exo 2', sans-serif;
+}
+h1 {
+    color: #ffffff;
+}
+h3 {
+    color: #66cc99;
+}
+a {
+    color: #66cc99;
+}
+li {
+    list-style: square;
+    margin: 10px 0;
+    width: 100%;
+    line-height: 1.4em;
+}
+pre {
+    background: #ffffff;
+    color: #3d3e42;
+}
+.text-bold {
+    color: #ffffff;
+    font-weight: bolder;
+}
